@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/defeat.png</file>
+        <file>image/fire3.png</file>
+        <file>image/map1.png</file>
+        <file>image/map2.png</file>
+        <file>image/pos5.png</file>
+        <file>image/tower4.gif</file>
+        <file>image/victory.png</file>
+        <file>image/wolf.gif</file>
+        <file>image/wolfking.gif</file>
+        <file>image/towertable1.png</file>
+        <file>image/towertable2.png</file>
+        <file>image/tower0.png</file>
+        <file>image/fire2.png</file>
+        <file>image/delet.png</file>
+        <file>image/dragon.gif</file>
+        <file>image/hugedragon.gif</file>
+        <file>image/lv2tower2.png</file>
+        <file>image/lv2tower.gif</file>
+        <file>image/up.png</file>
+        <file>image/start.png</file>
+        <file>image/disappear.gif</file>
+        <file>image/disappear2.gif</file>
+        <file>image/button.png</file>
+        <file>image/startpic.bmp</file>
+        <file>bgm.mp3</file>
+    </qresource>
+</RCC>
